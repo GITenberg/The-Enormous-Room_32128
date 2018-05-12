@@ -1,0 +1,38 @@
+_repo: The-Enormous-Room_32128
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32128-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Krepps, Robert W.
+    aliases:
+    - St. Reynard, Geoff
+    - Krepps, Robert Wilson
+    - Reynard, Geoff St.
+    - Reynard, Geoffrey St.
+    birthdate: 1919
+    deathdate: 1980
+    gutenberg_agent_id: '35674'
+    url: http://www.gutenberg.org/2009/agents/35674
+  - agent_name: Gold, H. L. (Horace Leonard)
+    alias: Gold, Horace Leonard
+    birthdate: 1914
+    deathdate: 1996
+    gutenberg_agent_id: '35538'
+    url: http://www.gutenberg.org/2009/agents/35538
+    wikipedia: http://en.wikipedia.org/wiki/H._L._Gold
+description: ''
+gutenberg_issued: '2010-04-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32128'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Enormous Room
+url: http://www.gutenberg.org/ebooks/32128
